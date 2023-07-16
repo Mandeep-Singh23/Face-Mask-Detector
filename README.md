@@ -1,5 +1,7 @@
 # Face-Mask-Detector
 Face Mask Detector using haarcascade_frontalface and mobilenet_v2
+
+The Face Mask Detector utilizes deep learning and OpenCV to accurately detect whether a person is wearing a face mask or not, enabling swift identification in real-time scenarios. This advanced model contributes to public health and safety measures by enforcing face mask compliance and preventing the spread of infectious diseases.
 # Tools and Softwares required
 
 1. [GitHub Account](https://github.com/)
